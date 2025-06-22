@@ -3,8 +3,8 @@
         <a class="navbar-brand d-flex align-items-center" href="{{ route('wellcome') }}">
             <img src="{{ asset('img/Dompu.png') }}" class="d-inline-block" width="50" height="50" alt="">
             <div class="d-flex flex-column ml-3">
-                <span class="text-sm">desa</span>
-                <span class="text-bold text-sm">SUKAMAJU</span>
+                <span class="text-sm">Dukcapil</span>
+                <span class="text-bold text-sm">Kab.Dompu</span>
             </div>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
